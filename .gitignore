@@ -64,3 +64,25 @@ data/user_data/
 *.bak
 *.swp
 *.swo
+# =========================
+# Test / coverage output
+# =========================
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# Build / packaging output
+# =========================
+
+*.spec
