@@ -2,4 +2,4 @@
 AI-powered career guidance platform that analyzes personality and skills to recommend suitable career paths..
 
 ### the first craft 
-for this repo we have some considerations that will incredibly be implemented
+for this repo we have some considerations that will incredibly be implemented. the final craft will be published as soon as possible. 
