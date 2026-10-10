@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "software_engineer",
+    "title": {
+      "en": "Software Engineer",
+      "fa": "مهندس نرم‌افزار"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Designs, builds, and maintains software applications and systems.",
+      "fa": "طراحی، ساخت و نگهداری نرم‌افزارها و سامانه‌های کامپیوتری."
+    },
+    "skills_mean": {
+      "analytical_thinking": 9,
+      "logical_thinking": 9,
+      "creativity": 6,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 9,
+      "curiosity": 8,
+      "learning_speed": 8,
+      "attention_to_detail": 7,
+      "stress_tolerance": 6,
+      "teamwork": 6,
+      "mathematics": 7
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "logical_thinking",
+      "problem_solving",
+      "curiosity"
+    ],
+    "market_demand": 92,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Software Engineer",
+        "Software Engineer",
+        "Senior Software Engineer",
+        "Lead Software Engineer",
+        "Principal Software Engineer / CTO"
+      ],
+      "fa": [
+        "مهندس نرم‌افزار جونیور",
+        "مهندس نرم‌افزار",
+        "مهندس نرم‌افزار ارشد",
+        "سرپرست تیم مهندس نرم‌افزار",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "ai_machine_learning_engineer",
+    "title": {
+      "en": "AI / Machine Learning Engineer",
+      "fa": "مهندس هوش مصنوعی و یادگیری ماشین"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Builds and deploys machine learning models to solve real-world problems.",
+      "fa": "طراحی و پیاده‌سازی مدل‌های هوش مصنوعی برای حل مسائل واقعی."
+    },
+    "skills_mean": {
+      "analytical_thinking": 9,
+      "logical_thinking": 9,
+      "creativity": 7,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 9,
+      "curiosity": 9,
+      "learning_speed": 9,
+      "attention_to_detail": 7,
+      "stress_tolerance": 6,
+      "teamwork": 6,
+      "mathematics": 9
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "logical_thinking",
+      "problem_solving",
+      "curiosity"
+    ],
+    "market_demand": 97,
+    "salary_level": "very_high",
+    "roadmap": {
+      "en": [
+        "Junior AI / Machine Learning Engineer",
+        "AI / Machine Learning Engineer",
+        "Senior AI / Machine Learning Engineer",
+        "Lead AI / Machine Learning Engineer",
+        "Principal AI / Machine Learning Engineer / CTO"
+      ],
+      "fa": [
+        "مهندس هوش مصنوعی و یادگیری ماشین جونیور",
+        "مهندس هوش مصنوعی و یادگیری ماشین",
+        "مهندس هوش مصنوعی و یادگیری ماشین ارشد",
+        "سرپرست تیم مهندس هوش مصنوعی و یادگیری ماشین",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "data_scientist",
+    "title": {
+      "en": "Data Scientist",
+      "fa": "دانشمند داده"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Extracts insights and predictions from large, complex datasets.",
+      "fa": "استخراج بینش و پیش‌بینی از داده‌های حجیم و پیچیده."
+    },
+    "skills_mean": {
+      "analytical_thinking": 9,
+      "logical_thinking": 8,
+      "creativity": 6,
+      "communication": 6,
+      "leadership": 4,
+      "problem_solving": 8,
+      "curiosity": 9,
+      "learning_speed": 8,
+      "attention_to_detail": 8,
+      "stress_tolerance": 6,
+      "teamwork": 6,
+      "mathematics": 9
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "curiosity",
+      "mathematics",
+      "logical_thinking"
+    ],
+    "market_demand": 93,
+    "salary_level": "very_high",
+    "roadmap": {
+      "en": [
+        "Junior Data Scientist",
+        "Data Scientist",
+        "Senior Data Scientist",
+        "Lead Data Scientist",
+        "Principal Data Scientist / CTO"
+      ],
+      "fa": [
+        "دانشمند داده جونیور",
+        "دانشمند داده",
+        "دانشمند داده ارشد",
+        "سرپرست تیم دانشمند داده",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "cybersecurity_analyst",
+    "title": {
+      "en": "Cybersecurity Analyst",
+      "fa": "کارشناس امنیت سایبری"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Protects computer systems and networks from digital threats.",
+      "fa": "محافظت از سامانه‌ها و شبکه‌های کامپیوتری در برابر تهدیدات سایبری."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 9,
+      "creativity": 5,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 9,
+      "curiosity": 8,
+      "learning_speed": 8,
+      "attention_to_detail": 9,
+      "stress_tolerance": 8,
+      "teamwork": 5,
+      "mathematics": 6
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "logical_thinking",
+      "problem_solving",
+      "attention_to_detail",
+      "analytical_thinking"
+    ],
+    "market_demand": 94,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Cybersecurity Analyst",
+        "Cybersecurity Analyst",
+        "Senior Cybersecurity Analyst",
+        "Lead Cybersecurity Analyst",
+        "Principal Cybersecurity Analyst / CTO"
+      ],
+      "fa": [
+        "کارشناس امنیت سایبری جونیور",
+        "کارشناس امنیت سایبری",
+        "کارشناس امنیت سایبری ارشد",
+        "سرپرست تیم کارشناس امنیت سایبری",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "backend_developer",
+    "title": {
+      "en": "Backend Developer",
+      "fa": "توسعه‌دهنده بک‌اند"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Builds the server-side logic, databases, and APIs behind applications.",
+      "fa": "توسعه منطق سمت سرور، پایگاه‌داده و رابط‌های برنامه‌نویسی برنامه‌ها."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 9,
+      "creativity": 5,
+      "communication": 4,
+      "leadership": 3,
+      "problem_solving": 8,
+      "curiosity": 7,
+      "learning_speed": 7,
+      "attention_to_detail": 7,
+      "stress_tolerance": 6,
+      "teamwork": 6,
+      "mathematics": 6
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "logical_thinking",
+      "analytical_thinking",
+      "problem_solving",
+      "curiosity"
+    ],
+    "market_demand": 88,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Backend Developer",
+        "Backend Developer",
+        "Senior Backend Developer",
+        "Lead Backend Developer",
+        "Principal Backend Developer / CTO"
+      ],
+      "fa": [
+        "توسعه‌دهنده بک‌اند جونیور",
+        "توسعه‌دهنده بک‌اند",
+        "توسعه‌دهنده بک‌اند ارشد",
+        "سرپرست تیم توسعه‌دهنده بک‌اند",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "frontend_developer",
+    "title": {
+      "en": "Frontend Developer",
+      "fa": "توسعه‌دهنده فرانت‌اند"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Builds the visual, interactive parts of websites and applications.",
+      "fa": "توسعه بخش‌های بصری و تعاملی وب‌سایت‌ها و برنامه‌ها."
+    },
+    "skills_mean": {
+      "analytical_thinking": 6,
+      "logical_thinking": 7,
+      "creativity": 8,
+      "communication": 5,
+      "leadership": 3,
+      "problem_solving": 7,
+      "curiosity": 7,
+      "learning_speed": 7,
+      "attention_to_detail": 7,
+      "stress_tolerance": 5,
+      "teamwork": 6,
+      "mathematics": 4
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "creativity",
+      "logical_thinking",
+      "problem_solving",
+      "curiosity"
+    ],
+    "market_demand": 85,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Junior Frontend Developer",
+        "Frontend Developer",
+        "Senior Frontend Developer",
+        "Lead Frontend Developer",
+        "Principal Frontend Developer / CTO"
+      ],
+      "fa": [
+        "توسعه‌دهنده فرانت‌اند جونیور",
+        "توسعه‌دهنده فرانت‌اند",
+        "توسعه‌دهنده فرانت‌اند ارشد",
+        "سرپرست تیم توسعه‌دهنده فرانت‌اند",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "devops_engineer",
+    "title": {
+      "en": "DevOps Engineer",
+      "fa": "مهندس دواپس"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Automates and manages infrastructure, deployment, and system reliability.",
+      "fa": "خودکارسازی و مدیریت زیرساخت، استقرار و پایداری سامانه‌ها."
+    },
+    "skills_mean": {
+      "analytical_thinking": 7,
+      "logical_thinking": 8,
+      "creativity": 5,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 8,
+      "curiosity": 7,
+      "learning_speed": 7,
+      "attention_to_detail": 8,
+      "stress_tolerance": 7,
+      "teamwork": 6,
+      "mathematics": 5
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "logical_thinking",
+      "problem_solving",
+      "attention_to_detail",
+      "analytical_thinking"
+    ],
+    "market_demand": 89,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior DevOps Engineer",
+        "DevOps Engineer",
+        "Senior DevOps Engineer",
+        "Lead DevOps Engineer",
+        "Principal DevOps Engineer / CTO"
+      ],
+      "fa": [
+        "مهندس دواپس جونیور",
+        "مهندس دواپس",
+        "مهندس دواپس ارشد",
+        "سرپرست تیم مهندس دواپس",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "cloud_engineer",
+    "title": {
+      "en": "Cloud Engineer",
+      "fa": "مهندس زیرساخت ابری"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Designs and manages scalable cloud infrastructure and services.",
+      "fa": "طراحی و مدیریت زیرساخت‌های ابری مقیاس‌پذیر."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 8,
+      "creativity": 5,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 8,
+      "curiosity": 7,
+      "learning_speed": 8,
+      "attention_to_detail": 7,
+      "stress_tolerance": 6,
+      "teamwork": 6,
+      "mathematics": 6
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "logical_thinking",
+      "problem_solving",
+      "learning_speed"
+    ],
+    "market_demand": 90,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Cloud Engineer",
+        "Cloud Engineer",
+        "Senior Cloud Engineer",
+        "Lead Cloud Engineer",
+        "Principal Cloud Engineer / CTO"
+      ],
+      "fa": [
+        "مهندس زیرساخت ابری جونیور",
+        "مهندس زیرساخت ابری",
+        "مهندس زیرساخت ابری ارشد",
+        "سرپرست تیم مهندس زیرساخت ابری",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "game_developer",
+    "title": {
+      "en": "Game Developer",
+      "fa": "توسعه‌دهنده بازی"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Designs and programs interactive video games.",
+      "fa": "طراحی و برنامه‌نویسی بازی‌های ویدیویی تعاملی."
+    },
+    "skills_mean": {
+      "analytical_thinking": 7,
+      "logical_thinking": 7,
+      "creativity": 9,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 8,
+      "curiosity": 8,
+      "learning_speed": 7,
+      "attention_to_detail": 7,
+      "stress_tolerance": 5,
+      "teamwork": 7,
+      "mathematics": 6
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "creativity",
+      "problem_solving",
+      "curiosity",
+      "analytical_thinking"
+    ],
+    "market_demand": 75,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Junior Game Developer",
+        "Game Developer",
+        "Senior Game Developer",
+        "Lead Game Developer",
+        "Principal Game Developer / CTO"
+      ],
+      "fa": [
+        "توسعه‌دهنده بازی جونیور",
+        "توسعه‌دهنده بازی",
+        "توسعه‌دهنده بازی ارشد",
+        "سرپرست تیم توسعه‌دهنده بازی",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "database_administrator",
+    "title": {
+      "en": "Database Administrator",
+      "fa": "مدیر پایگاه داده"
+    },
+    "category": "tech",
+    "description": {
+      "en": "Manages, secures, and optimizes an organization's databases.",
+      "fa": "مدیریت، ایمن‌سازی و بهینه‌سازی پایگاه‌های داده سازمان."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 8,
+      "creativity": 3,
+      "communication": 4,
+      "leadership": 3,
+      "problem_solving": 7,
+      "curiosity": 5,
+      "learning_speed": 6,
+      "attention_to_detail": 9,
+      "stress_tolerance": 6,
+      "teamwork": 5,
+      "mathematics": 6
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "attention_to_detail",
+      "analytical_thinking",
+      "logical_thinking",
+      "problem_solving"
+    ],
+    "market_demand": 72,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Junior Database Administrator",
+        "Database Administrator",
+        "Senior Database Administrator",
+        "Lead Database Administrator",
+        "Principal Database Administrator / CTO"
+      ],
+      "fa": [
+        "مدیر پایگاه داده جونیور",
+        "مدیر پایگاه داده",
+        "مدیر پایگاه داده ارشد",
+        "سرپرست تیم مدیر پایگاه داده",
+        "مدیر ارشد فنی (CTO)"
+      ]
+    }
+  },
+  {
+    "id": "mechanical_engineer",
+    "title": {
+      "en": "Mechanical Engineer",
+      "fa": "مهندس مکانیک"
+    },
+    "category": "engineering",
+    "description": {
+      "en": "Designs and analyzes mechanical systems and machinery.",
+      "fa": "طراحی و تحلیل سیستم‌ها و ماشین‌آلات مکانیکی."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 8,
+      "creativity": 6,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 8,
+      "curiosity": 6,
+      "learning_speed": 6,
+      "attention_to_detail": 8,
+      "stress_tolerance": 6,
+      "teamwork": 6,
+      "mathematics": 8
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "logical_thinking",
+      "problem_solving",
+      "attention_to_detail"
+    ],
+    "market_demand": 78,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Mechanical Engineer",
+        "Mechanical Engineer",
+        "Senior Mechanical Engineer",
+        "Engineering Manager",
+        "Director of Engineering"
+      ],
+      "fa": [
+        "مهندس مکانیک جونیور",
+        "مهندس مکانیک",
+        "مهندس مکانیک ارشد",
+        "مدیر مهندسی",
+        "مدیر ارشد مهندسی"
+      ]
+    }
+  },
+  {
+    "id": "electrical_engineer",
+    "title": {
+      "en": "Electrical Engineer",
+      "fa": "مهندس برق"
+    },
+    "category": "engineering",
+    "description": {
+      "en": "Designs and develops electrical systems and equipment.",
+      "fa": "طراحی و توسعه سیستم‌ها و تجهیزات الکتریکی."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 8,
+      "creativity": 5,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 8,
+      "curiosity": 6,
+      "learning_speed": 6,
+      "attention_to_detail": 8,
+      "stress_tolerance": 6,
+      "teamwork": 5,
+      "mathematics": 8
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "logical_thinking",
+      "problem_solving",
+      "attention_to_detail"
+    ],
+    "market_demand": 80,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Electrical Engineer",
+        "Electrical Engineer",
+        "Senior Electrical Engineer",
+        "Engineering Manager",
+        "Director of Engineering"
+      ],
+      "fa": [
+        "مهندس برق جونیور",
+        "مهندس برق",
+        "مهندس برق ارشد",
+        "مدیر مهندسی",
+        "مدیر ارشد مهندسی"
+      ]
+    }
+  },
+  {
+    "id": "civil_engineer",
+    "title": {
+      "en": "Civil Engineer",
+      "fa": "مهندس عمران"
+    },
+    "category": "engineering",
+    "description": {
+      "en": "Designs and oversees construction of infrastructure like roads and buildings.",
+      "fa": "طراحی و نظارت بر ساخت زیرساخت‌هایی مانند جاده و ساختمان."
+    },
+    "skills_mean": {
+      "analytical_thinking": 7,
+      "logical_thinking": 7,
+      "creativity": 5,
+      "communication": 6,
+      "leadership": 5,
+      "problem_solving": 7,
+      "curiosity": 5,
+      "learning_speed": 5,
+      "attention_to_detail": 8,
+      "stress_tolerance": 6,
+      "teamwork": 6,
+      "mathematics": 7
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "attention_to_detail",
+      "analytical_thinking",
+      "logical_thinking",
+      "problem_solving"
+    ],
+    "market_demand": 76,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Civil Engineer",
+        "Civil Engineer",
+        "Senior Civil Engineer",
+        "Engineering Manager",
+        "Director of Engineering"
+      ],
+      "fa": [
+        "مهندس عمران جونیور",
+        "مهندس عمران",
+        "مهندس عمران ارشد",
+        "مدیر مهندسی",
+        "مدیر ارشد مهندسی"
+      ]
+    }
+  },
+  {
+    "id": "industrial_engineer",
+    "title": {
+      "en": "Industrial Engineer",
+      "fa": "مهندس صنایع"
+    },
+    "category": "engineering",
+    "description": {
+      "en": "Optimizes complex processes, systems, and organizations.",
+      "fa": "بهینه‌سازی فرایندها، سیستم‌ها و سازمان‌های پیچیده."
+    },
+    "skills_mean": {
+      "analytical_thinking": 7,
+      "logical_thinking": 7,
+      "creativity": 5,
+      "communication": 6,
+      "leadership": 6,
+      "problem_solving": 7,
+      "curiosity": 5,
+      "learning_speed": 5,
+      "attention_to_detail": 7,
+      "stress_tolerance": 6,
+      "teamwork": 7,
+      "mathematics": 7
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "logical_thinking",
+      "problem_solving",
+      "attention_to_detail"
+    ],
+    "market_demand": 74,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Junior Industrial Engineer",
+        "Industrial Engineer",
+        "Senior Industrial Engineer",
+        "Engineering Manager",
+        "Director of Engineering"
+      ],
+      "fa": [
+        "مهندس صنایع جونیور",
+        "مهندس صنایع",
+        "مهندس صنایع ارشد",
+        "مدیر مهندسی",
+        "مدیر ارشد مهندسی"
+      ]
+    }
+  },
+  {
+    "id": "embedded_systems_engineer",
+    "title": {
+      "en": "Embedded Systems Engineer",
+      "fa": "مهندس سیستم‌های نهفته"
+    },
+    "category": "engineering",
+    "description": {
+      "en": "Designs software and hardware for specialized embedded devices.",
+      "fa": "طراحی نرم‌افزار و سخت‌افزار برای دستگاه‌های تعبیه‌شده تخصصی."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 9,
+      "creativity": 5,
+      "communication": 4,
+      "leadership": 3,
+      "problem_solving": 8,
+      "curiosity": 7,
+      "learning_speed": 7,
+      "attention_to_detail": 8,
+      "stress_tolerance": 6,
+      "teamwork": 5,
+      "mathematics": 7
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "logical_thinking",
+      "analytical_thinking",
+      "problem_solving",
+      "attention_to_detail"
+    ],
+    "market_demand": 82,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Embedded Systems Engineer",
+        "Embedded Systems Engineer",
+        "Senior Embedded Systems Engineer",
+        "Engineering Manager",
+        "Director of Engineering"
+      ],
+      "fa": [
+        "مهندس سیستم‌های نهفته جونیور",
+        "مهندس سیستم‌های نهفته",
+        "مهندس سیستم‌های نهفته ارشد",
+        "مدیر مهندسی",
+        "مدیر ارشد مهندسی"
+      ]
+    }
+  },
+  {
+    "id": "chemical_engineer",
+    "title": {
+      "en": "Chemical Engineer",
+      "fa": "مهندس شیمی"
+    },
+    "category": "engineering",
+    "description": {
+      "en": "Designs processes for large-scale chemical, fuel, and material production.",
+      "fa": "طراحی فرایندهای تولید مواد شیمیایی و سوخت در مقیاس صنعتی."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 7,
+      "creativity": 5,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 7,
+      "curiosity": 6,
+      "learning_speed": 6,
+      "attention_to_detail": 8,
+      "stress_tolerance": 6,
+      "teamwork": 6,
+      "mathematics": 7
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "attention_to_detail",
+      "logical_thinking",
+      "problem_solving"
+    ],
+    "market_demand": 71,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Chemical Engineer",
+        "Chemical Engineer",
+        "Senior Chemical Engineer",
+        "Engineering Manager",
+        "Director of Engineering"
+      ],
+      "fa": [
+        "مهندس شیمی جونیور",
+        "مهندس شیمی",
+        "مهندس شیمی ارشد",
+        "مدیر مهندسی",
+        "مدیر ارشد مهندسی"
+      ]
+    }
+  },
+  {
+    "id": "product_manager",
+    "title": {
+      "en": "Product Manager",
+      "fa": "مدیر محصول"
+    },
+    "category": "business",
+    "description": {
+      "en": "Defines product vision and coordinates teams to build it.",
+      "fa": "تعیین چشم‌انداز محصول و هماهنگی تیم‌ها برای ساخت آن."
+    },
+    "skills_mean": {
+      "analytical_thinking": 6,
+      "logical_thinking": 6,
+      "creativity": 6,
+      "communication": 8,
+      "leadership": 8,
+      "problem_solving": 7,
+      "curiosity": 7,
+      "learning_speed": 6,
+      "attention_to_detail": 5,
+      "stress_tolerance": 7,
+      "teamwork": 8,
+      "mathematics": 4
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "communication",
+      "leadership",
+      "teamwork",
+      "problem_solving"
+    ],
+    "market_demand": 87,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Product Manager (Entry-Level)",
+        "Product Manager",
+        "Senior Product Manager",
+        "Product Manager Manager",
+        "Head of Department"
+      ],
+      "fa": [
+        "مدیر محصول (سطح ورود)",
+        "مدیر محصول",
+        "مدیر محصول ارشد",
+        "مدیر مدیر محصول",
+        "مدیر بخش"
+      ]
+    }
+  },
+  {
+    "id": "project_manager",
+    "title": {
+      "en": "Project Manager",
+      "fa": "مدیر پروژه"
+    },
+    "category": "business",
+    "description": {
+      "en": "Plans, coordinates, and delivers projects on time and on budget.",
+      "fa": "برنامه‌ریزی، هماهنگی و تحویل پروژه‌ها در زمان و بودجه مشخص."
+    },
+    "skills_mean": {
+      "analytical_thinking": 5,
+      "logical_thinking": 6,
+      "creativity": 4,
+      "communication": 8,
+      "leadership": 8,
+      "problem_solving": 6,
+      "curiosity": 5,
+      "learning_speed": 5,
+      "attention_to_detail": 6,
+      "stress_tolerance": 8,
+      "teamwork": 8,
+      "mathematics": 4
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "communication",
+      "leadership",
+      "stress_tolerance",
+      "teamwork"
+    ],
+    "market_demand": 80,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Project Manager (Entry-Level)",
+        "Project Manager",
+        "Senior Project Manager",
+        "Project Manager Manager",
+        "Head of Department"
+      ],
+      "fa": [
+        "مدیر پروژه (سطح ورود)",
+        "مدیر پروژه",
+        "مدیر پروژه ارشد",
+        "مدیر مدیر پروژه",
+        "مدیر بخش"
+      ]
+    }
+  },
+  {
+    "id": "business_analyst",
+    "title": {
+      "en": "Business Analyst",
+      "fa": "تحلیلگر کسب‌وکار"
+    },
+    "category": "business",
+    "description": {
+      "en": "Analyzes business processes and translates needs into solutions.",
+      "fa": "تحلیل فرایندهای کسب‌وکار و تبدیل نیازها به راه‌حل."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 7,
+      "creativity": 4,
+      "communication": 7,
+      "leadership": 5,
+      "problem_solving": 7,
+      "curiosity": 6,
+      "learning_speed": 6,
+      "attention_to_detail": 7,
+      "stress_tolerance": 5,
+      "teamwork": 6,
+      "mathematics": 6
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "logical_thinking",
+      "communication",
+      "problem_solving"
+    ],
+    "market_demand": 83,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Business Analyst (Entry-Level)",
+        "Business Analyst",
+        "Senior Business Analyst",
+        "Business Analyst Manager",
+        "Head of Department"
+      ],
+      "fa": [
+        "تحلیلگر کسب‌وکار (سطح ورود)",
+        "تحلیلگر کسب‌وکار",
+        "تحلیلگر کسب‌وکار ارشد",
+        "مدیر تحلیلگر کسب‌وکار",
+        "مدیر بخش"
+      ]
+    }
+  },
+  {
+    "id": "financial_analyst",
+    "title": {
+      "en": "Financial Analyst",
+      "fa": "تحلیلگر مالی"
+    },
+    "category": "business",
+    "description": {
+      "en": "Analyzes financial data to guide investment and business decisions.",
+      "fa": "تحلیل داده‌های مالی برای هدایت تصمیمات سرمایه‌گذاری و کسب‌وکار."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 7,
+      "creativity": 3,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 6,
+      "curiosity": 5,
+      "learning_speed": 5,
+      "attention_to_detail": 8,
+      "stress_tolerance": 6,
+      "teamwork": 5,
+      "mathematics": 8
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "attention_to_detail",
+      "mathematics",
+      "logical_thinking"
+    ],
+    "market_demand": 79,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Financial Analyst (Entry-Level)",
+        "Financial Analyst",
+        "Senior Financial Analyst",
+        "Financial Analyst Manager",
+        "Head of Department"
+      ],
+      "fa": [
+        "تحلیلگر مالی (سطح ورود)",
+        "تحلیلگر مالی",
+        "تحلیلگر مالی ارشد",
+        "مدیر تحلیلگر مالی",
+        "مدیر بخش"
+      ]
+    }
+  },
+  {
+    "id": "accountant",
+    "title": {
+      "en": "Accountant",
+      "fa": "حسابدار"
+    },
+    "category": "business",
+    "description": {
+      "en": "Manages financial records, reporting, and tax compliance.",
+      "fa": "مدیریت اسناد مالی، گزارش‌دهی و امور مالیاتی."
+    },
+    "skills_mean": {
+      "analytical_thinking": 6,
+      "logical_thinking": 6,
+      "creativity": 2,
+      "communication": 4,
+      "leadership": 3,
+      "problem_solving": 5,
+      "curiosity": 3,
+      "learning_speed": 4,
+      "attention_to_detail": 9,
+      "stress_tolerance": 5,
+      "teamwork": 4,
+      "mathematics": 8
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "attention_to_detail",
+      "mathematics",
+      "analytical_thinking",
+      "logical_thinking"
+    ],
+    "market_demand": 68,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Accountant (Entry-Level)",
+        "Accountant",
+        "Senior Accountant",
+        "Accountant Manager",
+        "Head of Department"
+      ],
+      "fa": [
+        "حسابدار (سطح ورود)",
+        "حسابدار",
+        "حسابدار ارشد",
+        "مدیر حسابدار",
+        "مدیر بخش"
+      ]
+    }
+  },
+  {
+    "id": "entrepreneur",
+    "title": {
+      "en": "Entrepreneur",
+      "fa": "کارآفرین"
+    },
+    "category": "business",
+    "description": {
+      "en": "Builds and runs a new business from the ground up.",
+      "fa": "ساخت و اداره یک کسب‌وکار جدید از ابتدا."
+    },
+    "skills_mean": {
+      "analytical_thinking": 6,
+      "logical_thinking": 5,
+      "creativity": 8,
+      "communication": 8,
+      "leadership": 9,
+      "problem_solving": 8,
+      "curiosity": 8,
+      "learning_speed": 7,
+      "attention_to_detail": 4,
+      "stress_tolerance": 9,
+      "teamwork": 6,
+      "mathematics": 5
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "leadership",
+      "stress_tolerance",
+      "creativity",
+      "communication"
+    ],
+    "market_demand": 70,
+    "salary_level": "very_high",
+    "roadmap": {
+      "en": [
+        "Entrepreneur (Entry-Level)",
+        "Entrepreneur",
+        "Senior Entrepreneur",
+        "Entrepreneur Manager",
+        "Head of Department"
+      ],
+      "fa": [
+        "کارآفرین (سطح ورود)",
+        "کارآفرین",
+        "کارآفرین ارشد",
+        "مدیر کارآفرین",
+        "مدیر بخش"
+      ]
+    }
+  },
+  {
+    "id": "marketing_manager",
+    "title": {
+      "en": "Marketing Manager",
+      "fa": "مدیر بازاریابی"
+    },
+    "category": "business",
+    "description": {
+      "en": "Plans and leads campaigns to promote products and brands.",
+      "fa": "برنامه‌ریزی و هدایت کمپین‌های تبلیغاتی برای معرفی محصولات و برند."
+    },
+    "skills_mean": {
+      "analytical_thinking": 5,
+      "logical_thinking": 5,
+      "creativity": 8,
+      "communication": 9,
+      "leadership": 6,
+      "problem_solving": 6,
+      "curiosity": 6,
+      "learning_speed": 5,
+      "attention_to_detail": 5,
+      "stress_tolerance": 6,
+      "teamwork": 7,
+      "mathematics": 3
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "communication",
+      "creativity",
+      "teamwork",
+      "leadership"
+    ],
+    "market_demand": 81,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Marketing Manager (Entry-Level)",
+        "Marketing Manager",
+        "Senior Marketing Manager",
+        "Marketing Manager Manager",
+        "Head of Department"
+      ],
+      "fa": [
+        "مدیر بازاریابی (سطح ورود)",
+        "مدیر بازاریابی",
+        "مدیر بازاریابی ارشد",
+        "مدیر مدیر بازاریابی",
+        "مدیر بخش"
+      ]
+    }
+  },
+  {
+    "id": "ui_designer",
+    "title": {
+      "en": "UI Designer",
+      "fa": "طراح رابط کاربری"
+    },
+    "category": "creative",
+    "description": {
+      "en": "Designs the visual look and feel of digital interfaces.",
+      "fa": "طراحی نمای بصری و ظاهر رابط‌های دیجیتال."
+    },
+    "skills_mean": {
+      "analytical_thinking": 5,
+      "logical_thinking": 5,
+      "creativity": 9,
+      "communication": 6,
+      "leadership": 3,
+      "problem_solving": 6,
+      "curiosity": 6,
+      "learning_speed": 6,
+      "attention_to_detail": 8,
+      "stress_tolerance": 4,
+      "teamwork": 6,
+      "mathematics": 3
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "creativity",
+      "attention_to_detail",
+      "communication",
+      "problem_solving"
+    ],
+    "market_demand": 80,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Junior UI Designer",
+        "UI Designer",
+        "Senior UI Designer",
+        "Lead UI Designer",
+        "Creative Director"
+      ],
+      "fa": [
+        "طراح رابط کاربری جونیور",
+        "طراح رابط کاربری",
+        "طراح رابط کاربری ارشد",
+        "سرپرست طراح رابط کاربری",
+        "مدیر خلاقیت"
+      ]
+    }
+  },
+  {
+    "id": "ux_designer",
+    "title": {
+      "en": "UX Designer",
+      "fa": "طراح تجربه کاربری"
+    },
+    "category": "creative",
+    "description": {
+      "en": "Researches and designs how users experience and interact with products.",
+      "fa": "پژوهش و طراحی تجربه تعامل کاربران با محصولات."
+    },
+    "skills_mean": {
+      "analytical_thinking": 6,
+      "logical_thinking": 6,
+      "creativity": 8,
+      "communication": 7,
+      "leadership": 4,
+      "problem_solving": 7,
+      "curiosity": 7,
+      "learning_speed": 6,
+      "attention_to_detail": 7,
+      "stress_tolerance": 4,
+      "teamwork": 6,
+      "mathematics": 3
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "creativity",
+      "communication",
+      "problem_solving",
+      "curiosity"
+    ],
+    "market_demand": 82,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Junior UX Designer",
+        "UX Designer",
+        "Senior UX Designer",
+        "Lead UX Designer",
+        "Creative Director"
+      ],
+      "fa": [
+        "طراح تجربه کاربری جونیور",
+        "طراح تجربه کاربری",
+        "طراح تجربه کاربری ارشد",
+        "سرپرست طراح تجربه کاربری",
+        "مدیر خلاقیت"
+      ]
+    }
+  },
+  {
+    "id": "graphic_designer",
+    "title": {
+      "en": "Graphic Designer",
+      "fa": "طراح گرافیک"
+    },
+    "category": "creative",
+    "description": {
+      "en": "Creates visual content for branding, print, and digital media.",
+      "fa": "خلق محتوای بصری برای برندسازی، چاپ و رسانه دیجیتال."
+    },
+    "skills_mean": {
+      "analytical_thinking": 4,
+      "logical_thinking": 4,
+      "creativity": 9,
+      "communication": 5,
+      "leadership": 2,
+      "problem_solving": 5,
+      "curiosity": 6,
+      "learning_speed": 5,
+      "attention_to_detail": 7,
+      "stress_tolerance": 4,
+      "teamwork": 5,
+      "mathematics": 2
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "creativity",
+      "attention_to_detail",
+      "curiosity",
+      "communication"
+    ],
+    "market_demand": 65,
+    "salary_level": "low",
+    "roadmap": {
+      "en": [
+        "Junior Graphic Designer",
+        "Graphic Designer",
+        "Senior Graphic Designer",
+        "Lead Graphic Designer",
+        "Creative Director"
+      ],
+      "fa": [
+        "طراح گرافیک جونیور",
+        "طراح گرافیک",
+        "طراح گرافیک ارشد",
+        "سرپرست طراح گرافیک",
+        "مدیر خلاقیت"
+      ]
+    }
+  },
+  {
+    "id": "content_writer",
+    "title": {
+      "en": "Content Writer",
+      "fa": "نویسنده محتوا"
+    },
+    "category": "creative",
+    "description": {
+      "en": "Writes articles, copy, and content for brands and publications.",
+      "fa": "نگارش مقاله، متن تبلیغاتی و محتوا برای برندها و رسانه‌ها."
+    },
+    "skills_mean": {
+      "analytical_thinking": 5,
+      "logical_thinking": 5,
+      "creativity": 8,
+      "communication": 8,
+      "leadership": 3,
+      "problem_solving": 5,
+      "curiosity": 7,
+      "learning_speed": 5,
+      "attention_to_detail": 6,
+      "stress_tolerance": 4,
+      "teamwork": 4,
+      "mathematics": 2
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "creativity",
+      "communication",
+      "curiosity",
+      "attention_to_detail"
+    ],
+    "market_demand": 70,
+    "salary_level": "low",
+    "roadmap": {
+      "en": [
+        "Junior Content Writer",
+        "Content Writer",
+        "Senior Content Writer",
+        "Lead Content Writer",
+        "Creative Director"
+      ],
+      "fa": [
+        "نویسنده محتوا جونیور",
+        "نویسنده محتوا",
+        "نویسنده محتوا ارشد",
+        "سرپرست نویسنده محتوا",
+        "مدیر خلاقیت"
+      ]
+    }
+  },
+  {
+    "id": "architect",
+    "title": {
+      "en": "Architect",
+      "fa": "معمار"
+    },
+    "category": "creative",
+    "description": {
+      "en": "Designs buildings and physical spaces, balancing form and function.",
+      "fa": "طراحی ساختمان‌ها و فضاهای فیزیکی با تعادل بین زیبایی و کارکرد."
+    },
+    "skills_mean": {
+      "analytical_thinking": 6,
+      "logical_thinking": 6,
+      "creativity": 8,
+      "communication": 6,
+      "leadership": 5,
+      "problem_solving": 7,
+      "curiosity": 6,
+      "learning_speed": 5,
+      "attention_to_detail": 8,
+      "stress_tolerance": 5,
+      "teamwork": 6,
+      "mathematics": 6
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "creativity",
+      "attention_to_detail",
+      "problem_solving",
+      "analytical_thinking"
+    ],
+    "market_demand": 68,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Architect",
+        "Architect",
+        "Senior Architect",
+        "Lead Architect",
+        "Creative Director"
+      ],
+      "fa": [
+        "معمار جونیور",
+        "معمار",
+        "معمار ارشد",
+        "سرپرست معمار",
+        "مدیر خلاقیت"
+      ]
+    }
+  },
+  {
+    "id": "research_scientist",
+    "title": {
+      "en": "Research Scientist",
+      "fa": "پژوهشگر علمی"
+    },
+    "category": "science",
+    "description": {
+      "en": "Conducts original research to expand scientific knowledge.",
+      "fa": "انجام پژوهش‌های علمی برای گسترش دانش بشری."
+    },
+    "skills_mean": {
+      "analytical_thinking": 9,
+      "logical_thinking": 8,
+      "creativity": 7,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 8,
+      "curiosity": 9,
+      "learning_speed": 8,
+      "attention_to_detail": 8,
+      "stress_tolerance": 6,
+      "teamwork": 5,
+      "mathematics": 7
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "curiosity",
+      "logical_thinking",
+      "problem_solving"
+    ],
+    "market_demand": 75,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Research Assistant",
+        "Research Scientist",
+        "Senior Research Scientist",
+        "Principal Investigator",
+        "Head of Research"
+      ],
+      "fa": [
+        "دستیار پژوهشی",
+        "پژوهشگر علمی",
+        "پژوهشگر علمی ارشد",
+        "محقق اصلی",
+        "رئیس پژوهش"
+      ]
+    }
+  },
+  {
+    "id": "biotechnologist",
+    "title": {
+      "en": "Biotechnologist",
+      "fa": "متخصص زیست‌فناوری"
+    },
+    "category": "science",
+    "description": {
+      "en": "Applies biology and technology to develop products and processes.",
+      "fa": "استفاده از زیست‌شناسی و فناوری برای توسعه محصولات و فرایندها."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 7,
+      "creativity": 6,
+      "communication": 5,
+      "leadership": 4,
+      "problem_solving": 7,
+      "curiosity": 8,
+      "learning_speed": 7,
+      "attention_to_detail": 8,
+      "stress_tolerance": 6,
+      "teamwork": 5,
+      "mathematics": 6
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "analytical_thinking",
+      "curiosity",
+      "attention_to_detail",
+      "logical_thinking"
+    ],
+    "market_demand": 73,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Research Assistant",
+        "Biotechnologist",
+        "Senior Biotechnologist",
+        "Principal Investigator",
+        "Head of Research"
+      ],
+      "fa": [
+        "دستیار پژوهشی",
+        "متخصص زیست‌فناوری",
+        "متخصص زیست‌فناوری ارشد",
+        "محقق اصلی",
+        "رئیس پژوهش"
+      ]
+    }
+  },
+  {
+    "id": "environmental_scientist",
+    "title": {
+      "en": "Environmental Scientist",
+      "fa": "کارشناس محیط زیست"
+    },
+    "category": "science",
+    "description": {
+      "en": "Studies environmental problems and develops solutions to protect ecosystems.",
+      "fa": "بررسی مسائل زیست‌محیطی و توسعه راه‌حل برای حفاظت از اکوسیستم."
+    },
+    "skills_mean": {
+      "analytical_thinking": 7,
+      "logical_thinking": 6,
+      "creativity": 5,
+      "communication": 6,
+      "leadership": 4,
+      "problem_solving": 6,
+      "curiosity": 8,
+      "learning_speed": 6,
+      "attention_to_detail": 7,
+      "stress_tolerance": 5,
+      "teamwork": 6,
+      "mathematics": 5
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "curiosity",
+      "analytical_thinking",
+      "attention_to_detail",
+      "logical_thinking"
+    ],
+    "market_demand": 71,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Research Assistant",
+        "Environmental Scientist",
+        "Senior Environmental Scientist",
+        "Principal Investigator",
+        "Head of Research"
+      ],
+      "fa": [
+        "دستیار پژوهشی",
+        "کارشناس محیط زیست",
+        "کارشناس محیط زیست ارشد",
+        "محقق اصلی",
+        "رئیس پژوهش"
+      ]
+    }
+  },
+  {
+    "id": "physician",
+    "title": {
+      "en": "Physician",
+      "fa": "پزشک"
+    },
+    "category": "healthcare",
+    "description": {
+      "en": "Diagnoses and treats illness and injury in patients.",
+      "fa": "تشخیص و درمان بیماری و آسیب در بیماران."
+    },
+    "skills_mean": {
+      "analytical_thinking": 8,
+      "logical_thinking": 7,
+      "creativity": 4,
+      "communication": 7,
+      "leadership": 6,
+      "problem_solving": 8,
+      "curiosity": 6,
+      "learning_speed": 6,
+      "attention_to_detail": 9,
+      "stress_tolerance": 9,
+      "teamwork": 7,
+      "mathematics": 5
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "attention_to_detail",
+      "stress_tolerance",
+      "analytical_thinking",
+      "problem_solving"
+    ],
+    "market_demand": 90,
+    "salary_level": "very_high",
+    "roadmap": {
+      "en": [
+        "Resident / Trainee",
+        "Physician",
+        "Senior Physician",
+        "Specialist Physician",
+        "Department Head"
+      ],
+      "fa": [
+        "دستیار / کارآموز",
+        "پزشک",
+        "پزشک ارشد",
+        "متخصص پزشک",
+        "رئیس بخش"
+      ]
+    }
+  },
+  {
+    "id": "nurse",
+    "title": {
+      "en": "Nurse",
+      "fa": "پرستار"
+    },
+    "category": "healthcare",
+    "description": {
+      "en": "Provides direct patient care and support in medical settings.",
+      "fa": "ارائه مراقبت مستقیم و پشتیبانی از بیماران در محیط‌های درمانی."
+    },
+    "skills_mean": {
+      "analytical_thinking": 5,
+      "logical_thinking": 5,
+      "creativity": 3,
+      "communication": 8,
+      "leadership": 5,
+      "problem_solving": 6,
+      "curiosity": 5,
+      "learning_speed": 5,
+      "attention_to_detail": 8,
+      "stress_tolerance": 8,
+      "teamwork": 8,
+      "mathematics": 3
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "communication",
+      "attention_to_detail",
+      "stress_tolerance",
+      "teamwork"
+    ],
+    "market_demand": 88,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Resident / Trainee",
+        "Nurse",
+        "Senior Nurse",
+        "Specialist Nurse",
+        "Department Head"
+      ],
+      "fa": [
+        "دستیار / کارآموز",
+        "پرستار",
+        "پرستار ارشد",
+        "متخصص پرستار",
+        "رئیس بخش"
+      ]
+    }
+  },
+  {
+    "id": "pharmacist",
+    "title": {
+      "en": "Pharmacist",
+      "fa": "داروساز"
+    },
+    "category": "healthcare",
+    "description": {
+      "en": "Dispenses medication and advises on safe, effective drug use.",
+      "fa": "تجویز دارو و مشاوره درباره مصرف ایمن و مؤثر آن."
+    },
+    "skills_mean": {
+      "analytical_thinking": 7,
+      "logical_thinking": 6,
+      "creativity": 2,
+      "communication": 6,
+      "leadership": 4,
+      "problem_solving": 5,
+      "curiosity": 5,
+      "learning_speed": 5,
+      "attention_to_detail": 9,
+      "stress_tolerance": 6,
+      "teamwork": 5,
+      "mathematics": 5
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "attention_to_detail",
+      "analytical_thinking",
+      "logical_thinking",
+      "communication"
+    ],
+    "market_demand": 76,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Resident / Trainee",
+        "Pharmacist",
+        "Senior Pharmacist",
+        "Specialist Pharmacist",
+        "Department Head"
+      ],
+      "fa": [
+        "دستیار / کارآموز",
+        "داروساز",
+        "داروساز ارشد",
+        "متخصص داروساز",
+        "رئیس بخش"
+      ]
+    }
+  },
+  {
+    "id": "teacher",
+    "title": {
+      "en": "Teacher",
+      "fa": "معلم"
+    },
+    "category": "education",
+    "description": {
+      "en": "Educates and mentors students in a subject or skill area.",
+      "fa": "آموزش و راهنمایی دانش‌آموزان در یک حوزه یا مهارت خاص."
+    },
+    "skills_mean": {
+      "analytical_thinking": 5,
+      "logical_thinking": 5,
+      "creativity": 6,
+      "communication": 9,
+      "leadership": 6,
+      "problem_solving": 5,
+      "curiosity": 6,
+      "learning_speed": 5,
+      "attention_to_detail": 5,
+      "stress_tolerance": 7,
+      "teamwork": 7,
+      "mathematics": 4
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "communication",
+      "stress_tolerance",
+      "teamwork",
+      "creativity"
+    ],
+    "market_demand": 72,
+    "salary_level": "low",
+    "roadmap": {
+      "en": [
+        "Trainee Teacher",
+        "Teacher",
+        "Senior Teacher",
+        "Head of Department",
+        "School Principal"
+      ],
+      "fa": [
+        "معلم کارآموز",
+        "معلم",
+        "معلم ارشد",
+        "مدیر گروه آموزشی",
+        "مدیر مدرسه"
+      ]
+    }
+  },
+  {
+    "id": "lawyer",
+    "title": {
+      "en": "Lawyer",
+      "fa": "وکیل"
+    },
+    "category": "legal",
+    "description": {
+      "en": "Advises clients and represents them in legal matters.",
+      "fa": "مشاوره به موکلان و نمایندگی آن‌ها در مسائل حقوقی."
+    },
+    "skills_mean": {
+      "analytical_thinking": 7,
+      "logical_thinking": 8,
+      "creativity": 4,
+      "communication": 9,
+      "leadership": 6,
+      "problem_solving": 7,
+      "curiosity": 6,
+      "learning_speed": 6,
+      "attention_to_detail": 8,
+      "stress_tolerance": 8,
+      "teamwork": 5,
+      "mathematics": 3
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "communication",
+      "logical_thinking",
+      "attention_to_detail",
+      "stress_tolerance"
+    ],
+    "market_demand": 77,
+    "salary_level": "high",
+    "roadmap": {
+      "en": [
+        "Junior Lawyer",
+        "Lawyer",
+        "Senior Lawyer",
+        "Partner",
+        "Managing Partner"
+      ],
+      "fa": [
+        "وکیل جونیور",
+        "وکیل",
+        "وکیل ارشد",
+        "شریک",
+        "شریک ارشد"
+      ]
+    }
+  },
+  {
+    "id": "psychologist",
+    "title": {
+      "en": "Psychologist",
+      "fa": "روان‌شناس"
+    },
+    "category": "social",
+    "description": {
+      "en": "Studies human behavior and helps people manage mental health.",
+      "fa": "بررسی رفتار انسان و کمک به مدیریت سلامت روان."
+    },
+    "skills_mean": {
+      "analytical_thinking": 6,
+      "logical_thinking": 5,
+      "creativity": 5,
+      "communication": 9,
+      "leadership": 4,
+      "problem_solving": 6,
+      "curiosity": 7,
+      "learning_speed": 5,
+      "attention_to_detail": 6,
+      "stress_tolerance": 7,
+      "teamwork": 5,
+      "mathematics": 2
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "communication",
+      "curiosity",
+      "stress_tolerance",
+      "analytical_thinking"
+    ],
+    "market_demand": 79,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "Trainee Psychologist",
+        "Psychologist",
+        "Senior Psychologist",
+        "Clinical Supervisor",
+        "Practice Director"
+      ],
+      "fa": [
+        "روان‌شناس کارآموز",
+        "روان‌شناس",
+        "روان‌شناس ارشد",
+        "سرپرست بالینی",
+        "مدیر مرکز درمانی"
+      ]
+    }
+  },
+  {
+    "id": "hr_manager",
+    "title": {
+      "en": "HR Manager",
+      "fa": "مدیر منابع انسانی"
+    },
+    "category": "business",
+    "description": {
+      "en": "Manages hiring, culture, and employee relations within an organization.",
+      "fa": "مدیریت استخدام، فرهنگ سازمانی و روابط کارکنان."
+    },
+    "skills_mean": {
+      "analytical_thinking": 4,
+      "logical_thinking": 4,
+      "creativity": 4,
+      "communication": 9,
+      "leadership": 7,
+      "problem_solving": 5,
+      "curiosity": 5,
+      "learning_speed": 4,
+      "attention_to_detail": 6,
+      "stress_tolerance": 7,
+      "teamwork": 8,
+      "mathematics": 2
+    },
+    "skills_std": 0.8,
+    "required_skills": [
+      "communication",
+      "teamwork",
+      "leadership",
+      "stress_tolerance"
+    ],
+    "market_demand": 74,
+    "salary_level": "medium",
+    "roadmap": {
+      "en": [
+        "HR Manager (Entry-Level)",
+        "HR Manager",
+        "Senior HR Manager",
+        "HR Manager Manager",
+        "Head of Department"
+      ],
+      "fa": [
+        "مدیر منابع انسانی (سطح ورود)",
+        "مدیر منابع انسانی",
+        "مدیر منابع انسانی ارشد",
+        "مدیر مدیر منابع انسانی",
+        "مدیر بخش"
+      ]
+    }
+  }
+]
